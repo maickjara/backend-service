@@ -3,10 +3,10 @@
         "target": "ES6",
         "module": "CommonJS",
         "outDir": "./dist",
-        "rootDir": "./scr",
-        "scrict": true,
+        "rootDir": "./src",
+        "strict": true,
         "esModuleInterop": true,
         "experimentalDecorators": true,
         "emitDecoratorMetadata": true
     }
-    }
+}
